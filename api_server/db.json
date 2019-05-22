@@ -1,0 +1,45 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "my first stream description",
+      "id": 1
+    },
+    {
+      "title": "2nd stream",
+      "description": "my 2nd stream description",
+      "id": 2
+    },
+    {
+      "title": "edited name",
+      "description": "third stream description",
+      "id": 3
+    },
+    {
+      "title": "another edited name",
+      "description": "sdsdsd",
+      "id": 4
+    },
+    {
+      "title": "aname",
+      "description": "desc",
+      "id": 5
+    },
+    {
+      "title": "edited name",
+      "description": "new desc",
+      "id": 6
+    },
+    {
+      "title": "edit asd",
+      "description": "asd",
+      "id": 7
+    },
+    {
+      "title": "cvsgs",
+      "description": "sdfsdfdfds",
+      "userId": "101495937511048131254",
+      "id": 8
+    }
+  ]
+}
